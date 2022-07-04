@@ -1,0 +1,347 @@
+c:\users\mouaz\documents\visual studio 2012\Projects\OtobusOtomasyon\OtobusOtomasyon\bin\Debug\OtobusOtomasyon.exe.config
+c:\users\mouaz\documents\visual studio 2012\Projects\OtobusOtomasyon\OtobusOtomasyon\bin\Debug\OtobusOtomasyon.exe
+c:\users\mouaz\documents\visual studio 2012\Projects\OtobusOtomasyon\OtobusOtomasyon\bin\Debug\OtobusOtomasyon.pdb
+c:\users\mouaz\documents\visual studio 2012\Projects\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.csprojResolveAssemblyReference.cache
+c:\users\mouaz\documents\visual studio 2012\Projects\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.Form1.resources
+c:\users\mouaz\documents\visual studio 2012\Projects\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.KullanciGiris.resources
+c:\users\mouaz\documents\visual studio 2012\Projects\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.Properties.Resources.resources
+c:\users\mouaz\documents\visual studio 2012\Projects\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.csproj.GenerateResource.Cache
+c:\users\mouaz\documents\visual studio 2012\Projects\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.exe
+c:\users\mouaz\documents\visual studio 2012\Projects\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.pdb
+c:\users\mouaz\documents\visual studio 2012\Projects\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.AnaForm.resources
+c:\users\mouaz\documents\visual studio 2012\Projects\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.CalisanIslemlrei.resources
+G:\ \otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\bin\Debug\OtobusOtomasyon.exe.config
+G:\ \otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.exe
+G:\ \otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.pdb
+G:\ \otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\bin\Debug\OtobusOtomasyon.exe
+G:\ \otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\bin\Debug\OtobusOtomasyon.pdb
+G:\ \otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.csprojResolveAssemblyReference.cache
+G:\ \otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.AnaForm.resources
+G:\ \otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.CalisanIslemlrei.resources
+G:\ \otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.Form1.resources
+G:\ \otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.KullanciGiris.resources
+G:\ \otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.Properties.Resources.resources
+G:\ \otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.csproj.GenerateResource.Cache
+C:\Users\894\Desktop\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\bin\Debug\OtobusOtomasyon.exe.config
+C:\Users\894\Desktop\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.exe
+C:\Users\894\Desktop\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.pdb
+C:\Users\894\Desktop\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\bin\Debug\OtobusOtomasyon.exe
+C:\Users\894\Desktop\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\bin\Debug\OtobusOtomasyon.pdb
+C:\Users\894\Desktop\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\894\Desktop\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.AnaForm.resources
+C:\Users\894\Desktop\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.CalisanIslemlrei.resources
+C:\Users\894\Desktop\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.Form1.resources
+C:\Users\894\Desktop\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.KullanciGiris.resources
+C:\Users\894\Desktop\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.Properties.Resources.resources
+C:\Users\894\Desktop\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.csproj.GenerateResource.Cache
+C:\Users\MOUAZ\Desktop\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\bin\Debug\OtobusOtomasyon.exe.config
+C:\Users\MOUAZ\Desktop\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.exe
+C:\Users\MOUAZ\Desktop\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.pdb
+C:\Users\MOUAZ\Desktop\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\bin\Debug\OtobusOtomasyon.exe
+C:\Users\MOUAZ\Desktop\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\bin\Debug\OtobusOtomasyon.pdb
+C:\Users\MOUAZ\Desktop\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\MOUAZ\Desktop\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.AnaForm.resources
+C:\Users\MOUAZ\Desktop\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.CalisanIslemlrei.resources
+C:\Users\MOUAZ\Desktop\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.Form1.resources
+C:\Users\MOUAZ\Desktop\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.KullanciGiris.resources
+C:\Users\MOUAZ\Desktop\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.Properties.Resources.resources
+C:\Users\MOUAZ\Desktop\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.csproj.GenerateResource.Cache
+C:\Users\MOUAZ\Desktop\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.FrmSeferIslemleri.resources
+C:\Users\MOUAZ\Documents\Visual Studio 2012\Projects\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\bin\Debug\OtobusOtomasyon.exe.config
+C:\Users\MOUAZ\Documents\Visual Studio 2012\Projects\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.exe
+C:\Users\MOUAZ\Documents\Visual Studio 2012\Projects\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.pdb
+C:\Users\MOUAZ\Documents\Visual Studio 2012\Projects\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\bin\Debug\OtobusOtomasyon.exe
+C:\Users\MOUAZ\Documents\Visual Studio 2012\Projects\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\bin\Debug\OtobusOtomasyon.pdb
+C:\Users\MOUAZ\Documents\Visual Studio 2012\Projects\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\MOUAZ\Documents\Visual Studio 2012\Projects\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.AnaForm.resources
+C:\Users\MOUAZ\Documents\Visual Studio 2012\Projects\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.BiletAl.resources
+C:\Users\MOUAZ\Documents\Visual Studio 2012\Projects\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.CalisanIslemlrei.resources
+C:\Users\MOUAZ\Documents\Visual Studio 2012\Projects\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.Form1.resources
+C:\Users\MOUAZ\Documents\Visual Studio 2012\Projects\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.FormMusterilerİslemleri.resources
+C:\Users\MOUAZ\Documents\Visual Studio 2012\Projects\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.FrmBiletIslemleri.resources
+C:\Users\MOUAZ\Documents\Visual Studio 2012\Projects\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.FrmSeferIslemleri.resources
+C:\Users\MOUAZ\Documents\Visual Studio 2012\Projects\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.KullanciGiris.resources
+C:\Users\MOUAZ\Documents\Visual Studio 2012\Projects\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.Properties.Resources.resources
+C:\Users\MOUAZ\Documents\Visual Studio 2012\Projects\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.csproj.GenerateResource.Cache
+C:\Users\b16\Desktop\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\bin\Debug\OtobusOtomasyon.exe.config
+C:\Users\b16\Desktop\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.exe
+C:\Users\b16\Desktop\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.pdb
+F:\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\bin\Debug\OtobusOtomasyon.exe.config
+F:\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.exe
+F:\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.pdb
+F:\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\bin\Debug\OtobusOtomasyon.exe
+F:\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\bin\Debug\OtobusOtomasyon.pdb
+F:\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.csprojResolveAssemblyReference.cache
+F:\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.AnaForm.resources
+F:\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.BiletAl.resources
+F:\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.CalisanIslemlrei.resources
+F:\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.Form1.resources
+F:\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.FormMusterilerİslemleri.resources
+F:\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.FrmBiletIslemleri.resources
+F:\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.FrmSeferIslemleri.resources
+F:\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.KullanciGiris.resources
+F:\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.Properties.Resources.resources
+F:\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.csproj.GenerateResource.Cache
+F:\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.YoneticiIslemleri.resources
+G:\ \otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.BiletAl.resources
+G:\ \otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.FormMusterilerİslemleri.resources
+G:\ \otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.FrmBiletIslemleri.resources
+G:\ \otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.FrmSeferIslemleri.resources
+G:\ \otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.Welcom.resources
+G:\ \otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.YoneticiIslemleri.resources
+E:\ \otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\bin\Debug\OtobusOtomasyon.exe.config
+E:\ \otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.exe
+E:\ \otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.pdb
+E:\ \otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\bin\Debug\OtobusOtomasyon.exe
+E:\ \otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\bin\Debug\OtobusOtomasyon.pdb
+E:\ \otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.csprojResolveAssemblyReference.cache
+E:\ \otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.AnaForm.resources
+E:\ \otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.BiletAl.resources
+E:\ \otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.CalisanIslemlrei.resources
+E:\ \otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.Form1.resources
+E:\ \otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.FormMusterilerİslemleri.resources
+E:\ \otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.FrmBiletIslemleri.resources
+E:\ \otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.FrmSeferIslemleri.resources
+E:\ \otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.KullanciGiris.resources
+E:\ \otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.Properties.Resources.resources
+E:\ \otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.Welcom.resources
+E:\ \otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.YoneticiIslemleri.resources
+E:\ \otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.csproj.GenerateResource.Cache
+C:\Users\MOUAZ\Desktop\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.BiletAl.resources
+C:\Users\MOUAZ\Desktop\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.OtobusIslemleri.resources
+C:\Users\MOUAZ\Desktop\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.FormMusterilerİslemleri.resources
+C:\Users\MOUAZ\Desktop\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.FrmBiletIslemleri.resources
+C:\Users\MOUAZ\Desktop\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.FrmSehir.resources
+C:\Users\MOUAZ\Desktop\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.Welcom.resources
+C:\Users\MOUAZ\Desktop\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.YoneticiIslemleri.resources
+C:\Users\23\Desktop\mouaz\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\bin\Debug\OtobusOtomasyon.exe.config
+C:\Users\23\Desktop\mouaz\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.exe
+C:\Users\23\Desktop\mouaz\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.pdb
+C:\Users\23\Desktop\mouaz\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\bin\Debug\OtobusOtomasyon.exe
+C:\Users\23\Desktop\mouaz\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\bin\Debug\OtobusOtomasyon.pdb
+C:\Users\23\Desktop\mouaz\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\23\Desktop\mouaz\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.AnaForm.resources
+C:\Users\23\Desktop\mouaz\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.BiletAl.resources
+C:\Users\23\Desktop\mouaz\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.CalisanIslemlrei.resources
+C:\Users\23\Desktop\mouaz\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.Form1.resources
+C:\Users\23\Desktop\mouaz\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.OtobusIslemleri.resources
+C:\Users\23\Desktop\mouaz\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.FormMusterilerİslemleri.resources
+C:\Users\23\Desktop\mouaz\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.FrmBiletIslemleri.resources
+C:\Users\23\Desktop\mouaz\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.FrmSeferIslemleri.resources
+C:\Users\23\Desktop\mouaz\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.FrmSehir.resources
+C:\Users\23\Desktop\mouaz\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.KullanciGiris.resources
+C:\Users\23\Desktop\mouaz\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.Properties.Resources.resources
+C:\Users\23\Desktop\mouaz\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.Welcom.resources
+C:\Users\23\Desktop\mouaz\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.YoneticiIslemleri.resources
+C:\Users\23\Desktop\mouaz\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.csproj.GenerateResource.Cache
+G:\ \mouaz\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\bin\Debug\OtobusOtomasyon.exe.config
+G:\ \mouaz\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.exe
+G:\ \mouaz\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.pdb
+G:\ \otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.OtobusIslemleri.resources
+G:\ \otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.FrmSehir.resources
+F:\ \otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\bin\Debug\OtobusOtomasyon.exe.config
+F:\ \otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.exe
+F:\ \otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.pdb
+F:\ \otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\bin\Debug\OtobusOtomasyon.exe
+F:\ \otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\bin\Debug\OtobusOtomasyon.pdb
+F:\ \otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.csprojResolveAssemblyReference.cache
+F:\ \otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.AnaForm.resources
+F:\ \otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.BiletAl.resources
+F:\ \otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.CalisanIslemlrei.resources
+F:\ \otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.Form1.resources
+F:\ \otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.OtobusIslemleri.resources
+F:\ \otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.FormMusterilerİslemleri.resources
+F:\ \otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.FrmBiletIslemleri.resources
+F:\ \otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.FrmSeferIslemleri.resources
+F:\ \otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.FrmSehir.resources
+F:\ \otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.KullanciGiris.resources
+F:\ \otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.Properties.Resources.resources
+F:\ \otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.Welcom.resources
+F:\ \otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.YoneticiIslemleri.resources
+F:\ \otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.csproj.GenerateResource.Cache
+E:\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\bin\Debug\OtobusOtomasyon.exe.config
+E:\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.exe
+E:\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.pdb
+E:\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.csprojResolveAssemblyReference.cache
+E:\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.AnaForm.resources
+E:\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.BiletAl.resources
+E:\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.CalisanIslemlrei.resources
+E:\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.Form1.resources
+E:\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.OtobusIslemleri.resources
+E:\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.FormMusterilerİslemleri.resources
+E:\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.FrmBiletIslemleri.resources
+E:\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.FrmSeferIslemleri.resources
+E:\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.FrmSehir.resources
+E:\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.KullanciGiris.resources
+E:\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.Properties.Resources.resources
+E:\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.Welcom.resources
+E:\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.YoneticiIslemleri.resources
+E:\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.csproj.GenerateResource.Cache
+E:\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\bin\Debug\OtobusOtomasyon.exe
+E:\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\bin\Debug\OtobusOtomasyon.pdb
+E:\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\bin\Debug\Veritabanim.accdb
+E:\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.CalisanReporlarFormu.resources
+E:\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\RdlCompile.cache
+E:\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\RdlCompile.compiled
+E:\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.KullaniciReporFormu.resources
+E:\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.MusteriReporFormu.resources
+E:\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.OtobusReporFormu.resources
+E:\otobus otomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.SeferReporFormu.resources
+E:\otobus otomasyon - Kopya\OtobusOtomasyon\OtobusOtomasyon\bin\Debug\OtobusOtomasyon.exe.config
+E:\otobus otomasyon - Kopya\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.exe
+E:\otobus otomasyon - Kopya\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.pdb
+E:\otobus otomasyon - Kopya\OtobusOtomasyon\OtobusOtomasyon\bin\Debug\Veritabanim.accdb
+E:\otobus otomasyon - Kopya\OtobusOtomasyon\OtobusOtomasyon\bin\Debug\OtobusOtomasyon.exe
+E:\otobus otomasyon - Kopya\OtobusOtomasyon\OtobusOtomasyon\bin\Debug\OtobusOtomasyon.pdb
+E:\otobus otomasyon - Kopya\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.csprojResolveAssemblyReference.cache
+E:\otobus otomasyon - Kopya\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.AnaForm.resources
+E:\otobus otomasyon - Kopya\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.BiletAl.resources
+E:\otobus otomasyon - Kopya\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.CalisanIslemlrei.resources
+E:\otobus otomasyon - Kopya\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.CalisanReporlarFormu.resources
+E:\otobus otomasyon - Kopya\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.Form1.resources
+E:\otobus otomasyon - Kopya\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.KullaniciReporFormu.resources
+E:\otobus otomasyon - Kopya\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.MusteriReporFormu.resources
+E:\otobus otomasyon - Kopya\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.OtobusIslemleri.resources
+E:\otobus otomasyon - Kopya\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.FormMusterilerİslemleri.resources
+E:\otobus otomasyon - Kopya\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.FrmBiletIslemleri.resources
+E:\otobus otomasyon - Kopya\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.FrmSeferIslemleri.resources
+E:\otobus otomasyon - Kopya\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.FrmSehir.resources
+E:\otobus otomasyon - Kopya\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.KullanciGiris.resources
+E:\otobus otomasyon - Kopya\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.OtobusReporFormu.resources
+E:\otobus otomasyon - Kopya\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.Properties.Resources.resources
+E:\otobus otomasyon - Kopya\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.SeferReporFormu.resources
+E:\otobus otomasyon - Kopya\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.Welcom.resources
+E:\otobus otomasyon - Kopya\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.YoneticiIslemleri.resources
+E:\otobus otomasyon - Kopya\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.csproj.GenerateResource.Cache
+E:\otobus otomasyon - Kopya\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\RdlCompile.cache
+E:\otobus otomasyon - Kopya\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\RdlCompile.compiled
+E:\otobus otomasyon - Kopya\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.BiletAl2.resources
+E:\otobus otomasyon - Kopya\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.Frmseferrapor.resources
+E:\otobus otomasyon - Kopya\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.FrmBiletRapor.resources
+C:\Users\MOUAZ\Desktop\Son\OtobusOtomasyon\OtobusOtomasyon\bin\Debug\OtobusOtomasyon.exe.config
+C:\Users\MOUAZ\Desktop\Son\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.exe
+C:\Users\MOUAZ\Desktop\Son\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.pdb
+C:\Users\MOUAZ\Desktop\Son\OtobusOtomasyon\OtobusOtomasyon\bin\Debug\OtobusOtomasyon.exe
+C:\Users\MOUAZ\Desktop\Son\OtobusOtomasyon\OtobusOtomasyon\bin\Debug\OtobusOtomasyon.pdb
+C:\Users\MOUAZ\Desktop\Son\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\MOUAZ\Desktop\Son\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.AnaForm.resources
+C:\Users\MOUAZ\Desktop\Son\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.BiletAl.resources
+C:\Users\MOUAZ\Desktop\Son\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.BiletAl2.resources
+C:\Users\MOUAZ\Desktop\Son\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.CalisanIslemlrei.resources
+C:\Users\MOUAZ\Desktop\Son\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.Form1.resources
+C:\Users\MOUAZ\Desktop\Son\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.OtobusIslemleri.resources
+C:\Users\MOUAZ\Desktop\Son\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.FormMusterilerİslemleri.resources
+C:\Users\MOUAZ\Desktop\Son\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.FrmBiletIslemleri.resources
+C:\Users\MOUAZ\Desktop\Son\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.FrmSeferIslemleri.resources
+C:\Users\MOUAZ\Desktop\Son\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.FrmSehir.resources
+C:\Users\MOUAZ\Desktop\Son\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.KullanciGiris.resources
+C:\Users\MOUAZ\Desktop\Son\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.Properties.Resources.resources
+C:\Users\MOUAZ\Desktop\Son\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.Welcom.resources
+C:\Users\MOUAZ\Desktop\Son\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.YoneticiIslemleri.resources
+C:\Users\MOUAZ\Desktop\Son\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.csproj.GenerateResource.Cache
+C:\Users\MOUAZ\Desktop\Son\OtobusOtomasyon\OtobusOtomasyon\bin\Debug\Veritabanim.accdb
+C:\Users\MOUAZ\Desktop\Son\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.SeferlerRaporFormu.resources
+C:\Users\MOUAZ\Desktop\Son\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\RdlCompile.cache
+C:\Users\MOUAZ\Desktop\Son\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\RdlCompile.compiled
+C:\Users\MOUAZ\Desktop\Son\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.BiletRaporFormu.resources
+C:\Users\MOUAZ\Desktop\Son\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.Calisanraporformu.resources
+C:\Users\MOUAZ\Desktop\Son\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.KullaniciRaporFormu.resources
+C:\Users\MOUAZ\Desktop\Son\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.MusteriRaporFormu.resources
+C:\Users\MOUAZ\Desktop\Son\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.OtobusRaporFormu.resources
+C:\Users\MOUAZ\Desktop\Son\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.BiletKesRaporuFormu.resources
+E:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\bin\Debug\OtobusOtomasyon.exe.config
+E:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.exe
+E:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.pdb
+E:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\bin\Debug\Veritabanim.accdb
+E:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\bin\Debug\OtobusOtomasyon.exe
+E:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\bin\Debug\OtobusOtomasyon.pdb
+E:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.csprojResolveAssemblyReference.cache
+E:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.AnaForm.resources
+E:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.BiletAl.resources
+E:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.BiletAl2.resources
+E:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.BiletKesRaporuFormu.resources
+E:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.BiletRaporFormu.resources
+E:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.CalisanIslemlrei.resources
+E:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.Calisanraporformu.resources
+E:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.Form1.resources
+E:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.KullaniciRaporFormu.resources
+E:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.MusteriRaporFormu.resources
+E:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.OtobusIslemleri.resources
+E:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.FormMusterilerİslemleri.resources
+E:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.FrmBiletIslemleri.resources
+E:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.FrmSeferIslemleri.resources
+E:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.FrmSehir.resources
+E:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.KullanciGiris.resources
+E:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.OtobusRaporFormu.resources
+E:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.Properties.Resources.resources
+E:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.SeferlerRaporFormu.resources
+E:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.Welcom.resources
+E:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.YoneticiIslemleri.resources
+E:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.csproj.GenerateResource.Cache
+E:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\RdlCompile.cache
+E:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\RdlCompile.compiled
+F:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\bin\Debug\OtobusOtomasyon.exe.config
+F:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.exe
+F:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.pdb
+F:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\bin\Debug\Veritabanim.accdb
+F:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\bin\Debug\OtobusOtomasyon.exe
+F:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\bin\Debug\OtobusOtomasyon.pdb
+F:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.csprojResolveAssemblyReference.cache
+F:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.AnaForm.resources
+F:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.BiletAl.resources
+F:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.BiletAl2.resources
+F:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.BiletKesRaporuFormu.resources
+F:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.BiletRaporFormu.resources
+F:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.CalisanIslemlrei.resources
+F:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.Calisanraporformu.resources
+F:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.Form1.resources
+F:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.KullaniciRaporFormu.resources
+F:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.MusteriRaporFormu.resources
+F:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.OtobusIslemleri.resources
+F:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.FormMusterilerİslemleri.resources
+F:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.FrmBiletIslemleri.resources
+F:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.FrmSeferIslemleri.resources
+F:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.FrmSehir.resources
+F:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.KullanciGiris.resources
+F:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.OtobusRaporFormu.resources
+F:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.Properties.Resources.resources
+F:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.SeferlerRaporFormu.resources
+F:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.Welcom.resources
+F:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.YoneticiIslemleri.resources
+F:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.csproj.GenerateResource.Cache
+F:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\RdlCompile.cache
+F:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\RdlCompile.compiled
+F:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\OtobusOtomasyon\bin\Debug\OtobusOtomasyon.exe.config
+F:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.exe
+F:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.pdb
+F:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\OtobusOtomasyon\bin\Debug\Veritabanim.accdb
+F:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\OtobusOtomasyon\bin\Debug\OtobusOtomasyon.exe
+F:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\OtobusOtomasyon\bin\Debug\OtobusOtomasyon.pdb
+F:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.csprojResolveAssemblyReference.cache
+F:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.AnaForm.resources
+F:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.BiletAl.resources
+F:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.BiletAl2.resources
+F:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.BiletKesRaporuFormu.resources
+F:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.BiletRaporFormu.resources
+F:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.CalisanIslemlrei.resources
+F:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.Calisanraporformu.resources
+F:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.Form1.resources
+F:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.KullaniciRaporFormu.resources
+F:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.MusteriRaporFormu.resources
+F:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.OtobusIslemleri.resources
+F:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.FormMusterilerİslemleri.resources
+F:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.FrmBiletIslemleri.resources
+F:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.FrmSeferIslemleri.resources
+F:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.FrmSehir.resources
+F:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.KullanciGiris.resources
+F:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.OtobusRaporFormu.resources
+F:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.Properties.Resources.resources
+F:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.SeferlerRaporFormu.resources
+F:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.Welcom.resources
+F:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.YoneticiIslemleri.resources
+F:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.csproj.GenerateResource.Cache
+F:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\RdlCompile.cache
+F:\مشاريع\OtobusOtomasyon\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\RdlCompile.compiled
+C:\Users\OUSMAN\desler_2021\Bahar_2021\veritaban(VTYS)_2021\OtobusOtomasyon\OtobusOtomasyon\bin\Debug\OtobusOtomasyon.exe.config
+C:\Users\OUSMAN\desler_2021\Bahar_2021\veritaban(VTYS)_2021\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.exe
+C:\Users\OUSMAN\desler_2021\Bahar_2021\veritaban(VTYS)_2021\OtobusOtomasyon\OtobusOtomasyon\obj\Debug\OtobusOtomasyon.pdb

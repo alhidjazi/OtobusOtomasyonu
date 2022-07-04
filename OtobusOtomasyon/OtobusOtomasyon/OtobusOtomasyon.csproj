@@ -1,0 +1,419 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EF2F75EF-815D-4029-9909-FA93D4E31934}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>OtobusOtomasyon</RootNamespace>
+    <AssemblyName>OtobusOtomasyon</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AnaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AnaForm.Designer.cs">
+      <DependentUpon>AnaForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BiletAl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BiletAl.Designer.cs">
+      <DependentUpon>BiletAl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BiletAl2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BiletAl2.Designer.cs">
+      <DependentUpon>BiletAl2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BiletKesRaporuFormu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BiletKesRaporuFormu.Designer.cs">
+      <DependentUpon>BiletKesRaporuFormu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BiletRaporFormu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BiletRaporFormu.Designer.cs">
+      <DependentUpon>BiletRaporFormu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CalisanIslemlrei.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CalisanIslemlrei.Designer.cs">
+      <DependentUpon>CalisanIslemlrei.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Calisanraporformu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Calisanraporformu.Designer.cs">
+      <DependentUpon>Calisanraporformu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KullaniciRaporFormu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KullaniciRaporFormu.Designer.cs">
+      <DependentUpon>KullaniciRaporFormu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MusteriRaporFormu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MusteriRaporFormu.Designer.cs">
+      <DependentUpon>MusteriRaporFormu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OtobusIslemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OtobusIslemleri.Designer.cs">
+      <DependentUpon>OtobusIslemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMusterilerİslemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMusterilerİslemleri.Designer.cs">
+      <DependentUpon>FormMusterilerİslemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBiletIslemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBiletIslemleri.Designer.cs">
+      <DependentUpon>FrmBiletIslemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSeferIslemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSeferIslemleri.Designer.cs">
+      <DependentUpon>FrmSeferIslemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSehir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSehir.Designer.cs">
+      <DependentUpon>FrmSehir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KullanciGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KullanciGiris.Designer.cs">
+      <DependentUpon>KullanciGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OtobusRaporFormu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OtobusRaporFormu.Designer.cs">
+      <DependentUpon>OtobusRaporFormu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SeferlerRaporFormu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SeferlerRaporFormu.Designer.cs">
+      <DependentUpon>SeferlerRaporFormu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VeritabanimDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>VeritabanimDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Welcom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Welcom.Designer.cs">
+      <DependentUpon>Welcom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YoneticiIslemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YoneticiIslemleri.Designer.cs">
+      <DependentUpon>YoneticiIslemleri.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AnaForm.resx">
+      <DependentUpon>AnaForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BiletAl.resx">
+      <DependentUpon>BiletAl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BiletAl2.resx">
+      <DependentUpon>BiletAl2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BiletKesRaporuFormu.resx">
+      <DependentUpon>BiletKesRaporuFormu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BiletRaporFormu.resx">
+      <DependentUpon>BiletRaporFormu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CalisanIslemlrei.resx">
+      <DependentUpon>CalisanIslemlrei.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Calisanraporformu.resx">
+      <DependentUpon>Calisanraporformu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KullaniciRaporFormu.resx">
+      <DependentUpon>KullaniciRaporFormu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MusteriRaporFormu.resx">
+      <DependentUpon>MusteriRaporFormu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OtobusIslemleri.resx">
+      <DependentUpon>OtobusIslemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMusterilerİslemleri.resx">
+      <DependentUpon>FormMusterilerİslemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBiletIslemleri.resx">
+      <DependentUpon>FrmBiletIslemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSeferIslemleri.resx">
+      <DependentUpon>FrmSeferIslemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSehir.resx">
+      <DependentUpon>FrmSehir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KullanciGiris.resx">
+      <DependentUpon>KullanciGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OtobusRaporFormu.resx">
+      <DependentUpon>OtobusRaporFormu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <EmbeddedResource Include="Report2.rdlc" />
+    <EmbeddedResource Include="Report3.rdlc" />
+    <EmbeddedResource Include="Report4.rdlc" />
+    <EmbeddedResource Include="Report5.rdlc" />
+    <EmbeddedResource Include="Report6.rdlc" />
+    <EmbeddedResource Include="Report7.rdlc" />
+    <EmbeddedResource Include="SeferlerRaporFormu.resx">
+      <DependentUpon>SeferlerRaporFormu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Welcom.resx">
+      <DependentUpon>Welcom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YoneticiIslemleri.resx">
+      <DependentUpon>YoneticiIslemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="VeritabanimDataSet.xsc">
+      <DependentUpon>VeritabanimDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="VeritabanimDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>VeritabanimDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="VeritabanimDataSet.xss">
+      <DependentUpon>VeritabanimDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_16_171497.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_business-work_14_2377634.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_hat_2_2875603.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_law_iconsArtboard_1_copy_10_2393038.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_onebit_02_12576.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_reports_49615.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_Return_1454212.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_user_help_1902262.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\intoform.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\KGBgImeg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kulanciAd.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kulanciGiris.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kulanciSefre.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\property-agent-010-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_009_95869.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_Search-Male-User_49620.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_edit-clear_118917.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_f-cross_256_282471.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_friedn_added_101839 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_friedn_added_101839.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_pencil_47947.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_exit_3226 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CikisIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ekle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Guncelle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sil.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Temizle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ara.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\133858.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fft99_mf6761382.Jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Kotlok_Bos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9c055a8e28c7eb597bc534f31d27e180.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kotluk_click.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kotluk_Erkek.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bus-up-to-55-pax_.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-user-account-80.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_exit_3226 %281%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-password-reset-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-password-reset-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-room-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\22830-200.png" />
+    <None Include="Resources\steering-wheel_318-1804.jpg" />
+    <None Include="Resources\e4184ad1019de055b91ee94054cfbf9b.jpg" />
+    <None Include="Resources\a27825ee62aa858f8ccf2663c29fac03.jpg" />
+    <None Include="Resources\2000px-Bus-logo.svg.png" />
+    <None Include="Resources\koltuk_Kadin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Veritabanim.accdb">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
